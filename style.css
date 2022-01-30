@@ -172,7 +172,7 @@ section {
   color: #716bc9;
 }
 
-/* @media (max-height: 680px), screen and (orientation: portrait) {
+@media (max-height: 680px), screen and (orientation: portrait) {
   section {
     padding: 20px;
   }
@@ -188,4 +188,4 @@ section {
   .card_plan {
     width: 100%;
   }
-} */
+}
